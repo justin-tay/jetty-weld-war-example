@@ -1,0 +1,6 @@
+management:
+  enabled: true
+  path: /app
+  health:
+    enabled: true
+    path: /health
